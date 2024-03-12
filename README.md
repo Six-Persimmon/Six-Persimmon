@@ -3,5 +3,6 @@ Hi! My name is Shijian Liu (pronouces as Shee-Jane Leo). I am a second-year grad
 I am a main contributor to the following causal inference packages:
 * [fect_stata](https://github.com/xuyiqing/fect_stata) : STATA package for implementing counterfactual estimators in panel fixed-effect settings.
 * [fect_python](https://github.com/xuyiqing/fect_python) : Python package for implementing counterfactual estimators in panel fixed-effect settings.
+* [Deep Synthetic Control](https://github.com/yhzhu99/DeepSynth): Upcoming
 
 In my spare time, I am interested in learning nature history and Kendo (classic Japanese Fencing).
