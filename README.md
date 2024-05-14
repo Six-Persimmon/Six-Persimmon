@@ -1,4 +1,4 @@
-Hi! My name is Shijian Liu (pronouces as Shee-Jane Leo). I am a second-year graduate student in the Master of Economics and Computation (MSEC) program at Duke University. Previously, I obtained my bachelor's degree in Economics from Peking University. I am interested in Causal Machine Learning, Industrial Organization, and Quantitative Marketing.
+Hi! My name is Shijian Liu (pronouces as Shee-Jane Leo). I am an incoming Ph.D. student in Marketing at NYU Stern School of Business . Previously, I obtained my bachelor's degree in Economics from Peking University, and my master's degree in Economics and Computation from Duke University. I am interested in Industrial Organization, Quantitative Marketing, and Causal Inference Methodology.
 
 I am a main contributor to the following causal inference packages:
 * [fect_stata](https://github.com/xuyiqing/fect_stata) : STATA package for implementing counterfactual estimators in panel fixed-effect settings.
